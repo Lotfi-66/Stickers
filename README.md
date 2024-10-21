@@ -27,4 +27,4 @@ yarn build
 **Installez ACF via Composer :**
 ```bash
 composer require wpackagist-plugin/advanced-custom-fields
-```# Stickers
+```
